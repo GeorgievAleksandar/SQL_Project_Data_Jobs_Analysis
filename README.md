@@ -19,7 +19,7 @@ For this project, I worked with:
 - **PostgreSQL** – where all the job info lives
 - **VS Code** – to write and run my queries
 - **Git & GitHub** – to keep track of changes and share my work
-# The Analysis
+<!-- # The Analysis -->
 
 # What I Learned
 
